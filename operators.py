@@ -29,4 +29,4 @@ print("This is floor division 2, rounds to lowest number", floor_division2)
 #Also called exponentiation, this operator raises a number to the power of indicated another number
 exponentiation = 2 ** 3
 print("This is exponentiation", exponentiation) 
-
+j 
