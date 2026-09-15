@@ -28,5 +28,5 @@ print("This is floor division 2, rounds to lowest number", floor_division2)
 #Ridicarea la putere: Made with double asterisk **
 #Also called exponentiation, this operator raises a number to the power of indicated another number
 exponentiation = 2 ** 3
-print("This is exponentiation", exponentiation) 
-j 
+print("This is exponentiation", exponentiation)
+
