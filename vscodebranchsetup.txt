@@ -2,3 +2,7 @@ git add .
 git commit -m "Initial commit"
 git config --global user.name "Cristian"
 git config --global user.email "https://github.com/thunderstorm2kN?tab=repositories"
+
+git remote add origin https://github.com/thunderstorm2kN/pytest.git
+git branch -M main
+git push -u origin main
