@@ -6,3 +6,5 @@ git config --global user.email "https://github.com/thunderstorm2kN?tab=repositor
 git remote add origin https://github.com/thunderstorm2kN/pytest.git
 git branch -M main
 git push -u origin main
+
+https://wiki.python.org/moin/BeginnersGuide(2f)Download.html
