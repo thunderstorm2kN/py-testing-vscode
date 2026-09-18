@@ -37,3 +37,10 @@ for count in range(5):
 
 
 #Book: think py Think Python, 2nd Edition -- Allen B_ Downey
+
+
+
+
+
+
+# Strings and Values plus types: 
