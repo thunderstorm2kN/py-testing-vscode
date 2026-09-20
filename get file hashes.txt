@@ -1,0 +1,22 @@
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+PS C:\Users\user\Downloads> Get-AuthenticodeSignature C:\Users\user\Downloads\LibreOffice_26.8.0_Win_x86-64.msi
+
+
+    Directory: C:\Users\user\Downloads
+
+
+SignerCertificate                         Status                                 Path
+-----------------                         ------                                 ----
+6480532A562B36D1BFFFC5B5EACF7C31E74E9B28  Valid                                  LibreOffice_26.8.0_Win_x86-64.msi
+
+
+PS C:\Users\user\Downloads> Get-FileHash LibreOffice_26.8.0_Win_x86-64.msi -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path
+---------       ----                                                                   ----
+SHA256          4AA6C6E1895F4055104EFFCB556BD3362D20C6AD707C149543304F395EF9DB95       C:\Users\user\Downloads\Libre...
+
+
+PS C:\Users\user\Downloads>
