@@ -42,5 +42,3 @@ for count in range(5):
 
 
 
-
-# Strings and Values plus types: 

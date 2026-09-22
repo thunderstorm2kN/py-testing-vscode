@@ -8,5 +8,3 @@ git branch -M main
 git push -u origin main
 
 https://wiki.python.org/moin/BeginnersGuide(2f)Download.html
-
-yes

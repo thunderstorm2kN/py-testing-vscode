@@ -1,13 +1,15 @@
+#This is 1st part of 1st chapter of the book Think Python
 #A multitude of numbers + collections is called expression. 
 #Example of expressions  with mulple numbers and Operators:
-print(2 + 3 ** 4) # 14
+print(2 + 3 ** 4) # 83
 
 #Python uses same order of operations as mathematics.
 #But with parentheses, you can change the order of operations.
-print((12 + 5) * 6) 
+print((12 + 5) * 6) # 102
 
 
-#Arithmetic Functions: they require parantheses, if not error will appear.
+#Arithmetic Functions: they require parantheses, if not error will 
+#appear.
 #We consider the following action caling a function:
 
 #Functia round duce un numar cu virgula 
@@ -20,12 +22,13 @@ print(rounded_number) # 3
 #Pentru un nr pozitiv, valoarea absoluta este nr in sine.
 absolute_value = abs(42)
 print(absolute_value) # 42
+
 #Pentru un nr negativ, valoarea absoluta este nr pozitiv corespunzator.
 absolute_negative_value = abs(-48)
 print(absolute_negative_value) # 48
 
-#Not using a set of () will result in an error, as the function requires parentheses 
+#Not using a set of () will result in an error, as the function
+# requires parentheses 
 # to be called:     # abs 42
 
 
-#pg 17 mid 5 5 
